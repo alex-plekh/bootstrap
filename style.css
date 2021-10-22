@@ -1,0 +1,11 @@
+.bg-card{
+    width:100%;
+    height:225px;
+    background: #55595c;
+}
+
+.bg-card-text{
+    color: #fff;
+    font-size: 1.125rem;
+    text-anchor: middle;
+}
